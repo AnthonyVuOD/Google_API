@@ -1,0 +1,12 @@
+body {
+  background-color: gray; }
+
+h1 {
+  width: auto;
+  text-align: center;
+  margin-top: 5%; }
+
+#map {
+  width: 80%;
+  height: 500px;
+  margin: 5% auto; }
